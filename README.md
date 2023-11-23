@@ -41,8 +41,8 @@ Tokenizer Files:
   Download Source: [Hugging Face - Stable Diffusion v1.5 Tokenizer](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main/tokenizer)
 
 
-##Usage:
+## Usage:
 The main script (main.py) orchestrates the entire process, from data loading to image generation and saving. It allows for flexibility in terms of device usage and offers options for different sampling methods and CFG scales.
 
-##Output:
+## Output:
 Generated images are saved in a specified output directory, showcasing the transformation from the original CelebA images to the new, modified versions.
