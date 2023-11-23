@@ -1,7 +1,5 @@
 # Table Diffusion CelebA: A Stable Diffusion Framework for CelebA Image Generation
 
-Build a model using stable diffusion framework &amp;  architecture &amp; cfg 
-
 
 ## Project Overview:
 Table Diffusion CelebA leverages the Stable Diffusion framework to create a robust model for generating and transforming images from the CelebA dataset. 
