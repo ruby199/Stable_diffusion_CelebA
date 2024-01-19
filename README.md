@@ -1,4 +1,4 @@
-# Table Diffusion CelebA: A Stable Diffusion Framework for CelebA Image Generation
+# Diffusion CelebA: A Stable Diffusion Framework for CelebA Image Generation
 
 
 ## Project Overview:
