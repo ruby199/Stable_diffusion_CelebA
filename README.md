@@ -2,15 +2,15 @@
 
 
 ## Project Overview:
-Table Diffusion CelebA leverages the Stable Diffusion framework to create a robust model for generating and transforming images from the CelebA dataset. 
-This project integrates cutting-edge techniques in image-to-image generation, focusing on high-quality, configurable outputs.
+This project, Stable Diffusion CelebA is basically a model that laverages the Stable Diffusion framework to create a  model for generating and transforming images from the CelebA dataset. 
+If anyone interested in topics such as image-to-image generation, generative ai, etc, this is the model just right for you! 
 
 
 ## Features:
 
-* **Advanced Model Architecture:** Utilizes the Stable Diffusion framework and architecture, offering flexibility and efficiency in image generation.
+* **Model Architecture:** Utilizes the Stable Diffusion framework and architecture, offering flexibility and efficiency in image generation.
 * **Customizable Output:** Incorporates Configuration Guidance (CFG) for personalized control over the generation process.
-* **CelebA Dataset Integration:** Seamlessly processes images from the popular CelebA dataset, known for its vast collection of celebrity faces.
+* **CelebA Dataset Integration:** Processes images from the popular CelebA dataset, known for its vast collection of celebrity faces.
 
 
 
@@ -40,7 +40,7 @@ Tokenizer Files:
 
 
 ## Usage:
-The main script (main.py) orchestrates the entire process, from data loading to image generation and saving. It allows for flexibility in terms of device usage and offers options for different sampling methods and CFG scales.
+The main script (main.py) performs the entire process, from data loading to image generation and saving. It allows for flexibility in terms of device usage and offers options for different sampling methods and CFG scales. Simply run this python file and the user-defined text conditioned image would be generated! Super Cool!
 
 ## Output:
-Generated images are saved in a specified output directory, showcasing the transformation from the original CelebA images to the new, modified versions.
+Generated images are saved in a specified output directory!
