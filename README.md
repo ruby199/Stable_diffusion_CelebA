@@ -13,6 +13,9 @@ If anyone interested in topics such as image-to-image generation, generative ai,
 * **CelebA Dataset Integration:** Processes images from the popular CelebA dataset, known for its vast collection of celebrity faces.
 
 
+## Download the pretrained model (Stable-diffusion-v1-5)
+
+Download the pretrained model from this link: https://huggingface.co/runwayml/stable-diffusion-v1-5/blob/main/v1-5-pruned-emaonly.ckpt
 
 ## Download Data Files
 
